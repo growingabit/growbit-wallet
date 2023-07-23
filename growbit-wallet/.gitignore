@@ -15,3 +15,6 @@ web-build/
 
 # Temporary files created by Metro to check the health of the file watcher
 .metro-health-check*
+
+# credentials
+growbit-org-4adbd4391014.json
